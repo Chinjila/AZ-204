@@ -65,7 +65,7 @@
         private static async Task RunDatabaseDemo(CosmosClient client)
         {
             // An object containing relevant information about the response
-            DatabaseResponse databaseResponse = await client.CreateDatabaseIfNotExistsAsync(databaseId, 10000);
+            DatabaseResponse databaseResponse = await client.CreateDatabaseIfNotExistsAsync(databaseId, 400);
 
             // A client side reference object that allows additional operations like ReadAsync
             Database database = databaseResponse;
@@ -89,7 +89,7 @@
                 Console.WriteLine($"\n4. Read a database throughput: {throughputResponse}");
 
                 // Update the current throughput for the database
-                await database.ReplaceThroughputAsync(11000);
+                await database.ReplaceThroughputAsync(500);
             }
 
             Console.WriteLine("\n5. Reading all databases resources for an account");

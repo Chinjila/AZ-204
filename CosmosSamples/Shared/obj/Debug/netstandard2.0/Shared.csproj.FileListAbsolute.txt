@@ -1,0 +1,9 @@
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\Shared\obj\Debug\netstandard2.0\Shared.pdb

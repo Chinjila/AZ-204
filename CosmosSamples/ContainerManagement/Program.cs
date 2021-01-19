@@ -141,7 +141,7 @@
             // Change performance (reserved throughput) of CosmosContainer
             //    Let's change the performance of the autoscale container to a maximum throughput of 15000 RU/s
             //******************************************************************************************************************
-            ThroughputResponse throughputUpdateResponse = await autoscaleContainer.ReplaceThroughputAsync(ThroughputProperties.CreateAutoscaleThroughput(15000));
+            ThroughputResponse throughputUpdateResponse = await autoscaleContainer.ReplaceThroughputAsync(ThroughputProperties.CreateAutoscaleThroughput(400));
 
             Console.WriteLine($"{Environment.NewLine}1.2.3. Replaced autoscale throughput. {Environment.NewLine}The current throughput: {throughputUpdateResponse.Resource.Throughput} Max throughput: {throughputUpdateResponse.Resource.AutoscaleMaxThroughput} " +
                 $"using container's id: {autoscaleContainer.Id}");

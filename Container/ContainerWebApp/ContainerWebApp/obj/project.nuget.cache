@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwJUIK1pS5YActLUJcjhyi6jb2gx3xQGuMGPfQCBVTY2I/B+u6hoMsyEk4fEoZIWIi7QKCIYa3ATIfayNY/S4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ypchi\\source\\repos\\AZ204\\Container\\ContainerWebApp\\ContainerWebApp\\ContainerWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ypchi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

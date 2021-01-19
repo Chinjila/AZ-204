@@ -1,0 +1,15 @@
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\AppSettings.json
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\DatabaseManagement.deps.json
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\DatabaseManagement.runtimeconfig.json
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\DatabaseManagement.runtimeconfig.dev.json
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\DatabaseManagement.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\bin\Debug\netcoreapp2.1\DatabaseManagement.pdb
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.csprojAssemblyReference.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.AssemblyInfoInputs.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.AssemblyInfo.cs
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.csproj.CoreCompileInputs.cache
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.dll
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.pdb
+C:\Users\ypchi\source\repos\AZ204\CosmosSamples\DatabaseManagement\obj\Debug\netcoreapp2.1\DatabaseManagement.genruntimeconfig.cache
