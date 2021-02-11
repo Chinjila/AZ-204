@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>7da9af8c-e198-49aa-9b5a-eac486d486ff</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/2fa22f6f-be4e-498b-8132-ae2dbf4e5421/resourceGroups/vc-demo-rg/providers/microsoft.insights/components/vc2021</ApplicationInsightsResourceId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.3.0" />
+    <PackageReference Include="Azure.Storage.Files.Shares" Version="12.1.0" />
+    <PackageReference Include="Azure.Storage.Queues" Version="12.2.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+    <PackageReference Include="Microsoft.Extensions.Azure" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

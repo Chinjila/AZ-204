@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-01-22T08:36:21.597282Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-01-22T08:23:14.4728848Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-01-22T08:23:24.5275413Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "fn-group"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "2fa22f6f-be4e-498b-8132-ae2dbf4e5421"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "2fa22f6f-be4e-498b-8132-ae2dbf4e5421"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "vc-demo-rg"
+    }
+  }
+}

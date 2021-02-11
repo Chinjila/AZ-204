@@ -1,0 +1,14 @@
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\telcodatagen.exe.config
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\telcodatagen.exe
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\telcodatagen.pdb
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\obj\Debug\telcodatagen.csprojAssemblyReference.cache
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\obj\Debug\telcodatagen.csproj.CoreCompileInputs.cache
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\obj\Debug\telcodatagen.csproj.CopyComplete
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\obj\Debug\telcodatagen.exe
+C:\Users\ypchi\source\repos\AZ204\TelcoGenerator\obj\Debug\telcodatagen.pdb
